@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Madhvi Rajpoot</h1>
-<h3 align="center">Lerning Java Development</h3>
+<h3 align="center">Learning Java Development</h3>
 <img align="right" alt="coding" width:400 src="https://www.google.com/search?sxsrf=APwXEdduEdL_JNBX5Tg_14E5DajY-3iuzA:1683399953291&q=coding+girl+image+animated&tbm=isch&chips=q:coding+girl+image+animated,online_chips:programming+wallpaper:hg3_I6I8ycE%3D&usg=AI4_-kT_TxGdfs2nWN9Xcvrm8w6Rtf2pAA&sa=X&ved=2ahUKEwj2gOzBseH-AhUQ82EKHagjALYQgIoDKAJ6BAgIEBo&biw=1242&bih=568&dpr=1.1#imgrc=DV691OLbyN-bjM">
 
 
